@@ -48,7 +48,6 @@ Durante minha formação, desenvolvi diversos projetos acadêmicos que abordam d
 
 - **Email**: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
 - **LinkedIn**: [SeuPerfil](https://linkedin.com/in/seuperfil)  
-- **Portfólio**: [SeuPortfólio](https://seuportfolio.com) *(caso tenha)*  
 
 ---
 
